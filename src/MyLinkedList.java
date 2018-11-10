@@ -5,7 +5,7 @@ public class MyLinkedList {
 	
 	
 	/**
-	 * method used to insert element ad the end position where input
+	 * method used to insert element at the end position where input
 	 *  is only data passing by end user
 	 * 
 	 */
